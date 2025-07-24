@@ -3,3 +3,9 @@
 * Superman
 * Batman
 * Aquaman
+* Mujer Maravilla
+* Linterna Verde
+* Robin
+* Cybor
+* Flash
+
