@@ -6,3 +6,6 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
+* Cybor
+* Flash
+
